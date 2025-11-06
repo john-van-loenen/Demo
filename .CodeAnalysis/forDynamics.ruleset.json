@@ -1,0 +1,16 @@
+{
+    "name": "preLOGIC",
+    "description": "preLOGIC Rules", 
+    "rules":[        
+         {
+            "id": "AS0084",
+            "action": "Hidden",
+            "justification": "Impossible to solve"
+        },
+         {
+            "id": "AS0092",
+            "action": "Hidden",
+            "justification": "Impossible to solve"
+        }
+    ]   
+}

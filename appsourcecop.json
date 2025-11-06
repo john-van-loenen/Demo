@@ -1,0 +1,9 @@
+{
+"name": "Demo",
+"publisher": "forDynamics",
+"supportedCountries": ["NL", "BE"],
+"mandatoryAffixes": ["4DY"],
+"validateObsoleteSymbols": true,
+"validateInternalSymbols": true,
+"validateOnPremSymbols": true 
+}

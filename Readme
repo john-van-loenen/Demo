@@ -1,0 +1,16 @@
+1. Create New project
+   Ctrl+Shift+P: AL Go
+
+   - .vscode\launch.json
+     Hier staan de instellingen voor installeren en debug
+   - .vscde\settings.json
+     Hier staan de project-instellingen
+   - app.json
+     Instellingen van de app
+     - afhankelijkheden met andere extensies
+     - versie
+   - appsourcecop.json
+     Compiler instellingen.
+
+2. Download de APP files van BC (+ evt gekoppelde extenties)
+   Ctrl+Shift+P:: Download symbols

@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "ms-vscode.powershell",
+        "davidfeldhoff.al-codeactions",
+        "ms-dynamics-smb.al",
+        "martonsagi.al-object-designer",
+        "himanshusharma.vscode-al-variable-quickfixes",
+        "streetsidesoftware.code-spell-checker"
+    ]
+}
