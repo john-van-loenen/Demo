@@ -5,6 +5,7 @@
         "ms-dynamics-smb.al",
         "martonsagi.al-object-designer",
         "himanshusharma.vscode-al-variable-quickfixes",
-        "streetsidesoftware.code-spell-checker"
+        "streetsidesoftware.code-spell-checker",
+        "waldo.crs-al-language-extension"
     ]
 }

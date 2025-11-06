@@ -113,7 +113,7 @@
         "VariableDataTypes",
         "VariableNames"
     ],
-    "alOutline.defaultAppArea": "CAREBase",
+    "alOutline.defaultAppArea": "All",
     "alOutline.defaultDataClassification": "CustomerContent",
     "alOutline.defaultRemoveUnusedVariablesSettings": {},
     "alOutline.doNotReuseToolTipsFromOtherPages": false,
@@ -126,6 +126,13 @@
     "alOutline.reuseToolTipsFromDependencies": [],
     "alOutline.triggersSortMode": "Name",
     "alOutline.variablesSortMode": "fullTypeName",
+    "CRS.OnSaveAlFileAction": "Reorganize",
+    "CRS.DisableCRSSnippets": true,
+    "CRS.ExtensionObjectNamePattern": "",
+    "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.RemoveUnderscoreFromFilename": true,
+    "CRS.RenameWithGit": true,
     "cSpell.enabledFileTypes": {
         "al": true,
         "markdown": true,
