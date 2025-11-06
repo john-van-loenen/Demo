@@ -131,7 +131,9 @@
     "CRS.ExtensionObjectNamePattern": "",
     "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
     "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
-    "CRS.RemoveUnderscoreFromFilename": true,
+    "CRS.FileNamePatternPageCustomizations":"<ObjectNameShort>.<ObjectTypeShortPascalCase>.al", 
+    "CRS.RemovePrefixFromFilename": true,
+    "CRS.RemoveUnderscoreFromFilename": true, 
     "CRS.RenameWithGit": true,
     "cSpell.enabledFileTypes": {
         "al": true,
