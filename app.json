@@ -1,0 +1,38 @@
+{
+  "id": "1ebbf584-4750-4a2f-8562-d142389e080b",
+  "name": "Demo",
+  "publisher": "forDynamics",
+  "version": "1.0.0.0",
+  "brief": "Demo app",
+  "description": "Voorbeeld app",
+  "privacyStatement": "https://fordynamics.nl",
+  "EULA": "https://demo.fordynamics.nl",
+  "help": "https://demo.fordynamics.nl",
+  "url": "https://demo.fordynamics.nl",
+  "logo": "./.images/logo.png",
+  "contextSensitiveHelpUrl": "https://demo.fordynamics.nl",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "27.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ], 
+  "runtime": "16.0",
+ "features": [
+    "TranslationFile",
+    "GenerateCaptions"
+  ],
+  "supportedLocales": [
+    "nl-NL",
+    "en-US"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
